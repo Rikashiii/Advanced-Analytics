@@ -26,3 +26,7 @@
 	To rename columns :
 	
 	###df.rename(columns={'age':'passenger_age','pclass':'Class'}, inplace = True)
+	
+- Do correlation and covanance analysis and visualization on the 'social media' usage separately for facebook and instagram users, Columns to be used: daily minutes per day and posts per day.
+
+- Combine the 3 marathon datasets (Hint: df pd.concat([df_2015, df_2016, of_20171) ). Then do a correlation analysis on 'Official time" (l.e. time taken to complete the race) and 'pace' (i.e. average pace per minute in km) columns. Draw sacatter plot and heatmap
