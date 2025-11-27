@@ -60,3 +60,7 @@
 	(d) What is the most likely number of wins India will have in 60 matches?
 1.  8th question remaining, Satish WHatsapp.
 
+1. Calculate Z-scores and do outlier analysis on
+
+	- Glucose column of Diabetes dataset
+	- Billionaires dataset
