@@ -64,3 +64,16 @@
 
 	- Glucose column of Diabetes dataset
 	- Billionaires dataset
+
+
+1. A courier company delivers parcels in a particular area in 30 minutes. A new GPS system
+	installed has reduced the average time to 28 minutes, when 100 trucks were studied, with a
+	sample standard deviation of 4.2 minutes. Run a two-tailed test and a one-tailed (left-tailed) 	test.
+
+1. A battery manufacturer claims that a battery which used run for 30 hours now runs for more thai
+	30 hours due to new technology. 200 batteries were studied. Average battery time was found to b
+	29.5 hours with a standard deviation of 8 hours. Run a one-tailed (right-tailed) test.
+
+1. For the three combined Marathon datasets, extract the top 25 records with lowest
+	finish time (Official Time column). Check the null hypothesis HO = The average finishing time of thi
+	lop 25 athletes is 130 minutes. Test it for a = 1%, 5%, and 10%.
