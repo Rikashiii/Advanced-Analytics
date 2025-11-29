@@ -77,3 +77,8 @@
 1. For the three combined Marathon datasets, extract the top 25 records with lowest
 	finish time (Official Time column). Check the null hypothesis HO = The average finishing time of thi
 	lop 25 athletes is 130 minutes. Test it for a = 1%, 5%, and 10%.
+
+1. For combined Marathon datasets, find if younger (age <= 30) and older (age > 30)
+	athletes have a similar average pace.
+
+1. Fir StudentsPerformance.csv, using ANOVA find if there is a significant difference in Maths marks depending on the level of parental education.
