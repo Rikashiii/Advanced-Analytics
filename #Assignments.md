@@ -82,3 +82,7 @@
 	athletes have a similar average pace.
 
 1. Fir StudentsPerformance.csv, using ANOVA find if there is a significant difference in Maths marks depending on the level of parental education.
+
+---
+
+1. Predict weight using height in weigh-height.csv dataset
