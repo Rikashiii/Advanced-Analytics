@@ -85,4 +85,14 @@
 
 ---
 
-1. Predict weight using height in weigh-height.csv dataset
+# Assignment 3
+
+1. Predict weight using height in weigh-height.csv dataset. (Linear Regression)
+
+
+1. Perform Naive Bayes Classification and Logistic Regression to predict if a bank customer would "churn" (i.e. close bank account) using dataset "Bank Customer Churn Prediction". Perform encoding and scaling as appropriate. Handle nulls, if present.
+
+1. Use dataset
+kaggle->tejashvi14/travel-insurance-prediction-data
+Predict 'customer travel insurance purchase' column.
+Perform scaling, encoding, null handling, as neccessary.
