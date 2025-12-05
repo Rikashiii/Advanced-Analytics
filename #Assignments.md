@@ -96,3 +96,13 @@
 kaggle->tejashvi14/travel-insurance-prediction-data
 Predict 'customer travel insurance purchase' column.
 Perform scaling, encoding, null handling, as neccessary.
+
+1. Perform Time Series Analysis on
+	1. Monthly Cola Production in Australia
+	2. ice cream sales
+	3. USD to INR
+	   datsets
+
+1. Assignment PCA
+
+Perform PCA and then logistic regression on loan_approval_dataset.csv file.
